@@ -19,7 +19,7 @@ Proje kapsamında:
 
 ## 🧭 Proje Akışı
 1. **Veri Hazırlama**  
-   - Sohbet mesajları `.csv` formatında toplandı.
+   - Sohbet mesajları `.json` formatında alındı.
    - Manuel etiketleme yapılarak `manual_labels.csv` dosyası oluşturuldu.
    
 2. **LLM ile Etiketleme**  
@@ -28,7 +28,7 @@ Proje kapsamında:
 
 3. **Karşılaştırma & Doğruluk Analizi**  
    - `scripts/analyze_results.py` ile LLM ve manuel etiketler karşılaştırıldı.
-   - Her bir başlık (sentiment, konu, bot yanıtı) için doğru/yanlış sayıları ve doğruluk yüzdesi hesaplandı.
+   - Her bir başlık (sentiment, konu, bot yanıtı) için doğru/yanlış sayıları ve doğruluk yüzdeleri gibi bilgiler saklandı.
 
 4. **Raporlama**  
    - Doğruluk raporu (`accuracy_report.md`) ve en iyi sonuç veren prompt (`system_prompts.txt`) kaydedildi.

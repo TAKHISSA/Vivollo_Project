@@ -1,0 +1,306 @@
+message;bot_answered;sentiment;topic
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Kına""";"""Evet""";"""Nötr""";"""Kına"""
+"""Harika, **kına gecesi** için yardımcı olabilirim! Şimdi birkaç detay daha öğrenmem gerekiyor:
+
+1. **Hangi şehir ve ilçede** kına gecesi yapmak istiyorsunuz?
+2. Nasıl bir hizmet arıyorsunuz? (Sadece mekan mı, yoksa organizasyon, fotoğrafçı gibi ek hizmetler de ister misiniz?)""";"""Evet""";"""Pozitif""";"""Kına"""
+"""Diyarbakır’da hem düğün hem kına""";"""Evet""";"""Nötr""";“Kına ve Düğün”
+"""Çok güzel! **Diyarbakır’da hem düğün hem de kına gecesi** için seçenekler sunabilirim. Size en uygun mekan ve hizmetleri önerebilmem için birkaç bilgiye daha ihtiyacım var:
+
+1. **Tahmini düğün ve kına tarihi** nedir? (Yıl-ay veya tam tarih olarak paylaşabilirsiniz.)
+2. **Tahmini davetli sayısı** kaç olacak?
+3. İkram tercihiniz nedir? (Yemekli, kokteyl, pasta ve meşrubat gibi)
+4. Sadece mekan mı arıyorsunuz, yoksa organizasyon, fotoğrafçı gibi ek hizmetler de ister misiniz?
+5. Kişi başı veya toplam **bütçeniz** nedir?
+
+Bu bilgileri paylaşırsanız, Diyarbakır ve yakın ilçelerde size en uygun önerileri sunabilirim!""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""2 ay sonra düşünüyoruz 700 davetli gelecek ikram olarak içecek ve ,pasta ve meşrubat istiyoruz""";"""Evet""";"""Nötr""";"""Davetiye"""
+"""Teşekkürler, bilgiler için! Şu ana kadar elimde olanlar:
+
+- **Etkinlik türü:** Düğün & Kına gecesi
+- **Şehir:** Diyarbakır
+- **Tarih:** Yaklaşık 2 ay sonra (Ağustos 2025)
+- **Davetli sayısı:** 700 kişi
+- **İkram tercihi:** Pasta ve meşrubat (yemeksiz, içecekli)
+
+Şimdi birkaç detay daha rica edeceğim:
+1. Sadece **mekan** mı arıyorsunuz, yoksa organizasyon, fotoğrafçı gibi ek hizmetler de ister misunuz?
+2. **Kişi başı veya toplam bütçeniz** nedir? (Bütçenizi belirtirseniz, en uygun mekanları ve firmaları önerebilirim.)
+3. Mekan tercihiniz var mı? (Açık alan, kapalı salon, havuz başı, kır düğünü vb.)
+
+Bu detayları da paylaşırsanız, Diyarbakır ve yakın ilçelerde size en uygun mekan ve hizmetleri hemen önerebilirim!""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Mekan ve fotoğraf ,100 bin tl bütçemiz var kapalı alanda""";"""Evet""";"""Nötr""";"""Diğer"""
+"""İstediğiniz kriterlere uygun yeteri kadar sonuç bulamadım, ama beğenebileceğiniz bazı güzel alternatifler için tekrar arama yapıyorum...""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""Kullanıcının belirttiği kriterlere uygun mekan bulunamadığında, şu adımları takip eden bir mesaj oluştur:
+1. Uygun mekan bulunamadığını bildir.
+2. Kriterlerin genişletilmesi gerektiğini açıkla.
+3. Kullanıcıya kriterleri esnetmesini veya yeni bir arama yapmasını öner.
+
+Not: Bir sonraki mesajda Function Call kullanma; kullanıcı yeni bir arama yapmak isterse, uygun function call'u çalıştır.""";"""Hayır""";"""Nötr""";“Düğün Mekanı”
+"""Şu anda belirttiğiniz kriterlere (Diyarbakır, 700 kişi, kapalı alan, mekan + fotoğraf, 100 bin TL bütçe) tam olarak uyan bir mekan bulamadım. 
+
+Ancak, isterseniz:
+- **Yakın ilçelerde** veya Diyarbakır çevresinde arama yapabilirim,
+- **Davetli sayısını** biraz azaltabilir veya
+- **Bütçenizi** esnetebilirseniz,
+daha fazla seçenek sunabilirim.
+
+Kriterlerinizde bir değişiklik yapmak ister misiniz? Ya da farklı bir öneri ister misiniz? Size en iyi şekilde yardımcı olmak isterim!""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Davet sayısını 600 e çekelim o zaman""";"""Evet""";"""Nötr""";"""Davetiye"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""İstediğiniz kriterlere uygun yeteri kadar sonuç bulamadım, ama beğenebileceğiniz bazı güzel alternatifler için tekrar arama yapıyorum...""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""Kullanıcının belirttiği kriterlere uygun mekan bulunamadığında, şu adımları takip eden bir mesaj oluştur:
+1. Uygun mekan bulunamadığını bildir.
+2. Kriterlerin genişletilmesi gerektiğini açıkla.
+3. Kullanıcıya kriterleri esnetmesini veya yeni bir arama yapmasını öner.
+
+Not: Bir sonraki mesajda Function Call kullanma; kullanıcı yeni bir arama yapmak isterse, uygun function call'u çalıştır.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Ne yazık ki, **Diyarbakır'da 600 kişilik, kapalı alanda, mekan ve fotoğraf hizmeti dahil, 100 bin TL bütçeyle** tam olarak uygun bir mekan bulamadım.
+
+Dilerseniz:
+- **Yakın ilçelerde** veya Diyarbakır çevresinde arama yapabilirim,
+- **Bütçenizi** biraz artırabilir ya da
+- **Davetli sayısını** daha da azaltabilirsiniz.
+
+Kriterlerinizde bir değişiklik yapmak ister misiniz? Alternatif olarak, daha küçük kapasiteli veya açık/yarı açık alan mekanları da önerebilirim. Nasıl ilerlemek istersiniz?""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Düğün""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Harika! **Düğün** için mekan veya hizmet arayışındasınız. Size en iyi önerileri sunabilmem için birkaç bilgiye daha ihtiyacım olacak:
+
+1. **Düğününüzü hangi şehir ve ilçede yapmak istiyorsunuz?**
+2. **Tahmini düğün tarihiniz belli mi?**
+3. **Yaklaşık kaç davetli olacak?**
+4. **Nasıl bir hizmet arıyorsunuz?** (Sadece mekan mı, yoksa organizasyon, fotoğrafçı gibi ek hizmetler de ister misiniz?)
+
+Sırayla ilerleyelim! Öncelikle, düğününüzü hangi şehir ve ilçede planlıyorsunuz?""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""Adıyaman Kahta""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Teşekkürler! **Adıyaman Kahta**’da düğün yapmak istiyorsunuz. Şimdi birkaç detay daha rica edeceğim:
+
+1. **Tahmini düğün tarihiniz belli mi?**
+2. **Yaklaşık kaç davetliniz olacak?**
+3. **Yemekli mi, kokteyl mi, yoksa sadece pasta ve meşrubat ikramı mı düşünüyorsunuz?**
+4. Sadece **mekan** mı arıyorsunuz, yoksa **organizasyon**, **fotoğrafçı** gibi ek hizmetler de ister misiniz?
+
+Öncelikle, tahmini düğün tarihinizi öğrenebilir miyim? (Yıl-ay veya tam tarih şeklinde yazabilirsiniz.)""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Ağustos ayı""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Teşekkürler! **Ağustos ayında** Kahta’da düğün planlıyorsunuz. Şimdi birkaç detay daha rica edeceğim:
+
+1. **Yaklaşık kaç davetliniz olacak?**
+2. **İkram tercihiniz nedir?** (Yemekli, kokteyl, pasta ve meşrubat)
+3. Sadece **mekan** mı arıyorsunuz, yoksa **organizasyon**, **fotoğrafçı** gibi ek hizmetler de ister misiniz?
+
+Öncelikle, tahmini davetli sayınızı öğrenebilir miyim?""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""200 e Yakın""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Harika, yaklaşık **200 kişilik** bir düğün planlıyorsunuz.
+
+Şimdi, ikram tercihinizi öğrenmek isterim:
+- **Yemekli**
+- **Kokteyl**
+- **Pasta ve meşrubat**
+
+Hangisini tercih ediyorsunuz? Ayrıca, sadece **mekan** mı arıyorsunuz yoksa **organizasyon** veya **fotoğrafçı** gibi ek hizmetler de ister misiniz?""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""Yemekli""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Çok güzel, **yemekli** bir düğün planlıyorsunuz ve yaklaşık 200 davetliniz olacak.
+
+Şimdi son birkaç detay daha rica edeceğim:
+1. **Kişi başı bütçeniz** ne kadar? (Yaklaşık bir rakam verebilirsiniz.)
+2. Mekan tercihiniz var mı? (Açık alan, kapalı alan, kır düğünü, salon, otel vb. seçeneklerden hangisini istersiniz? Kararsızsanız alternatifler sunabilirim.)
+
+Bu bilgilerle size Kahta ve yakın ilçelerde en uygun düğün mekanlarını önerebilirim. Öncelikle kişi başı bütçenizi öğrenebilir miyim?""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Açık yada kapalı düğün salonu""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Teşekkürler! **Açık veya kapalı düğün salonu** tercihiniz var, yani her iki seçeneğe de açıksınız.
+
+Şimdi, size en uygun mekanları önerebilmem için son olarak **kişi başı bütçenizi** öğrenebilir miyim? (Yaklaşık bir rakam belirtirseniz, bütçenize uygun en iyi mekanları listeleyebilirim.)
+
+Örneğin: Kişi başı 500 TL, 750 TL gibi.""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""500""";"""Evet""";"""Nötr""";"""Diğer"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""İstediğiniz kriterlere uygun yeteri kadar sonuç bulamadım, ama beğenebileceğiniz bazı güzel alternatifler için tekrar arama yapıyorum...""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Kullanıcının belirttiği kriterlere uygun mekan bulunamadığında, şu adımları takip eden bir mesaj oluştur:
+1. Uygun mekan bulunamadığını bildir.
+2. Kriterlerin genişletilmesi gerektiğini açıkla.
+3. Kullanıcıya kriterleri esnetmesini veya yeni bir arama yapmasını öner.
+
+Not: Bir sonraki mesajda Function Call kullanma; kullanıcı yeni bir arama yapmak isterse, uygun function call'u çalıştır.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""Şu anda **Kahta** ve yakın çevresinde, kişi başı 500 TL bütçeyle açık veya kapalı düğün salonu için uygun mekan bulamadım.
+
+Dilerseniz:
+- **Bütçenizi biraz artırabilir**
+- **Yakın ilçeleri** (örneğin: Adıyaman Merkez, Samsat, Gerger gibi) dahil edebilir
+- Veya **tarih ve davetli sayısı** gibi kriterlerde esneklik sağlayabilirsiniz.
+
+Kriterlerinizi biraz genişletmek ister misiniz? Size en uygun alternatifi bulmam için nasıl yardımcı olabilirim?""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Adıyaman Kahta köşk düğün salonu""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Teşekkürler! **Adıyaman Kahta Köşk Düğün Salonu** ile ilgilendiğinizi belirttiniz.
+
+Bu salon hakkında bilgi almak, fiyat teklifi istemek veya müsaitlik durumu öğrenmek mi istiyorsunuz? Ayrıca, başka salon veya alternatif mekan önerileri de sunmamı ister misiniz?
+
+Dilerseniz, Köşk Düğün Salonu’nun kapasitesi, hizmetleri ve iletişim bilgileriyle ilgili detayları da paylaşabilirim. Nasıl yardımcı olmamı istersiniz?""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Kına""";"""Evet""";"""Nötr""";"""Kına"""
+"""Harika! **Kına geceniz** için yardımcı olmaktan mutluluk duyarım. Şimdi, nasıl bir hizmet aradığınızı öğrenebilir miyim?
+
+- **Kına gecesi mekanı** mı arıyorsunuz?
+- **Kına organizasyonu** (süsleme, dans ekibi, aksesuarlar vb.) mu istiyorsunuz?
+- Yoksa her ikisini birden mi düşünüyorsunuz? 
+
+Sizin için en uygun önerileri sunabilmem için tercihinizi belirtir misiniz?""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""Abiye istiyorum""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Çok güzel! **Kına geceniz için abiye** (nişan/kına/akşam elbisesi) arıyorsunuz. Size en uygun abiye mağazalarını veya tasarımcılarını önerebilmem için birkaç bilgiye daha ihtiyacım olacak:
+
+1. **Hangi şehir ve ilçede** abiye arıyorsunuz?
+2. **Tahmini bütçeniz** nedir?
+3. Özel bir renk veya model tercihiniz var mı?
+
+Bu bilgileri paylaşırsanız, size en uygun abiye seçeneklerini hemen sunabilirim!""";"""Evet""";"""Nötr""";"""Gelinlik"""
+"""İstanbul Türkiye bütçe 4000 bin TL""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Teşekkürler! İstanbul’da, **4000 TL bütçeyle** kına geceniz için abiye arıyorsunuz. Size daha iyi yardımcı olabilmem için son bir sorum olacak:
+
+İstanbul’un belirli bir ilçesinde mi arıyorsunuz, yoksa tüm İstanbul’daki abiye mağazalarını incelememi ister misiniz? Eğer belirli bir ilçe varsa belirtir misiniz? 
+
+Ayrıca, özel bir renk veya model tercihiniz varsa paylaşabilirsiniz. Böylece önerilerim daha nokta atışı olur!""";"""Evet""";"""Nötr""";"""Kına"""
+"""Bağcılar Esenler""";"""Evet""";"""Nötr""";"""Diğer"""
+"""İstediğiniz kriterlere uygun yeteri kadar sonuç bulamadım, ama beğenebileceğiniz bazı güzel alternatifler için tekrar arama yapıyorum...""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""Kullanıcının belirttiği kriterlere uygun mekan bulunamadığında, şu adımları takip eden bir mesaj oluştur:
+1. Uygun mekan bulunamadığını bildir.
+2. Kriterlerin genişletilmesi gerektiğini açıkla.
+3. Kullanıcıya kriterleri esnetmesini veya yeni bir arama yapmasını öner.
+
+Not: Bir sonraki mesajda Function Call kullanma; kullanıcı yeni bir arama yapmak isterse, uygun function call'u çalıştır.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""""";"""Hayır""";"""Nötr""";"""Belirsiz"""
+"""Şu anda **Bağcılar** ve **Esenler** ilçelerinde, 4000 TL bütçeyle kına gecesi için abiye bulabileceğim uygun bir mağaza veya firma veritabanımda görünmüyor.
+
+Dilerseniz:
+- **Yakın ilçelerde** (Güngören, Bahçelievler, Bayrampaşa gibi) arama yapabilirim.
+- Ya da bütçenizi veya tercih ettiğiniz ilçeleri genişletebilirsiniz.
+
+Nasıl devam etmemi istersiniz?""";"""Evet""";"""Nötr""";"""Kına"""
+"""Ok""";"""Evet""";"“Nötr""";"""Diğer"""
+"""Teşekkür ederim! Size başka bir konuda yardımcı olmamı ister misiniz? Eğer ileride tekrar abiye, kına organizasyonu veya başka bir düğün hizmeti ararsanız her zaman buradayım.
+
+Bugünkü hizmetimden memnun kaldınız mı? Başka bir isteğiniz varsa hemen yardımcı olabilirim!""";"""Evet""";"""Pozitif""";"""Kına"""
+"""Peki uygun fiyata olnine site bula bilirmisib""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Tabii, yardımcı olabilirim! İstanbul’da yaşıyorsanız ve **uygun fiyatlı abiye** arıyorsanız, online alışveriş siteleri güzel bir alternatif olabilir. Aşağıda, Türkiye’de güvenle alışveriş yapabileceğiniz ve genellikle uygun fiyatlı abiye seçenekleri sunan popüler online siteleri bulabilirsiniz:
+
+1. **Modanisa** – [modanisa.com](https://www.modanisa.com)
+2. **Trendyol** – [trendyol.com](https://www.trendyol.com)
+3. **Morhipo** – [morhipo.com](https://www.morhipo.com)
+4. **Zara** – [zara.com](https://www.zara.com/tr)
+5. **Sefamerve** – [sefamerve.com](https://www.sefamerve.com)
+6. **Hepsiburada** – [hepsiburada.com](https://www.hepsiburada.com)
+7. **LC Waikiki** – [lcwaikiki.com](https://www.lcwaikiki.com/tr-TR/TR)
+
+Bu sitelerde “kına abiyesi”, “gece elbisesi” veya “abiye elbise” gibi anahtar kelimelerle arama yapabilirsiniz. Fiyat filtrelerini kullanarak bütçenize uygun modelleri kolayca bulabilirsiniz.
+
+Ekstra bir öneri ister misiniz? Belirli bir renk veya model arıyorsanız, bana yazabilirsiniz!""";"""Hayır""";"""Nötr""";"""Gelinlik"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Düğün""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Harika! **Düğün** organizasyonu için yardımcı olabilmem adına birkaç bilgiye daha ihtiyacım var.
+
+Öncelikle, düğününüzün tahmini tarihini öğrenebilir miyim? (Yıl-ay ya da yıl-ay-gün şeklinde yazabilirsiniz.)""";"""Evet""";"""Pozitif""";"""Diğer"""
+"""2025.11.15""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Teşekkürler! **15 Kasım 2025** tarihi için düğün planlıyorsunuz.
+
+Şimdi, nasıl bir hizmet aradığınızı öğrenmek isterim:
+- Düğün mekanı mı arıyorsunuz?
+- Düğün organizasyonu, fotoğrafçılık, gelinlik gibi başka bir hizmet mi düşünüyorsunuz?
+
+Size en uygun önerileri sunabilmem için belirtir misiniz?""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Düğün mekanı""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Çok güzel! Size en uygun **düğün mekanı** önerilerini sunabilmem için birkaç bilgiye daha ihtiyacım olacak:
+
+1. Düğünü hangi şehir ve ilçede yapmak istiyorsunuz?
+2. Tahmini kaç davetliniz olacak?
+3. İkram tercihiniz nedir? (Yemekli, kokteyl, pasta & meşrubat gibi)
+4. Kişi başı bütçeniz nedir? (Yaklaşık bir rakam belirtirseniz daha iyi önerilerde bulunabilirim.)
+5. Mekan tercihiniz var mı? (Açık alan, kapalı alan, havuz başı, kır düğünü, otel vb.)
+
+Bu sorulardan dilediklerinizi yanıtlayabilirsiniz, ben de size en uygun mekanları hemen önereyim!""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Merbah""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Merhaba! Size nasıl yardımcı olabilirim? Düğün, kına, nişan veya başka bir etkinlik mi planlıyorsunuz? Bana yapmak istediğiniz etkinliği kısaca anlatırsanız, en uygun mekan veya hizmetleri önermeye başlayabilirim.""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Şeşi""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Bu konu hakkında bir fikrim yok. Size düğün, kına, nişan veya benzeri etkinlikler konusunda yardımcı olabilirim. Size nasıl yardımcı olabilirim?""";"""Evet""";"""Nötr""";"""Nişan"""
+"""https://images.app.goo.gl/cid7SnWHy1pyLv118""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Üzgünüm, görsel bağlantılarını inceleyemiyorum. Ancak, görseldeki bir mekan, dekorasyon veya konsept hakkında bilgi almak istiyorsanız, lütfen bana görselle ilgili kısa bir açıklama yapın. Böylece size en uygun önerileri sunabilirim!
+
+Size nasıl yardımcı olabilirim? Düğün, kına, nişan veya başka bir etkinlik mi planlıyorsunuz?""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Nişan""";"""Evet""";"""Nötr""";"""Nişan"""
+"""Harika, **nişan** etkinliği için yardımcı olabilirim! Sıradaki adımda, nasıl bir hizmet aradığınızı öğrenmek isterim:
+
+- **Nişan organizasyonu** mu arıyorsunuz?
+- **Nişan mekanı** mı bakıyorsunuz?
+- Yoksa **nişan fotoğrafçısı** veya başka bir hizmet mi arıyorsunuz?
+
+Sizin için en doğru önerileri sunabilmem için tercihinizi belirtir misiniz?""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""Nişanlık beğenmiştim de onu""";"""Evet""";"""Nötr""";"""Nişan"""
+"""Anladım, **nişanlık** yani nişan elbisesiyle ilgileniyorsunuz! Size en güzel nişanlık modellerini ve bu hizmeti sunan firmaları önerebilmem için birkaç bilgiye ihtiyacım var:
+
+1. **Hangi şehirde** veya ilçede nişanlık bakıyorsunuz?
+2. **Tahmini bütçeniz** nedir?
+3. Nişan tarihiniz belli mi? (Varsa, lütfen belirtin.)
+
+Bu bilgilerle size en uygun nişanlık firmalarını ve modellerini önerebilirim. Sizin için nasıl devam edeyim?""";"""Evet""";"""Nötr""";"""Gelinlik"""
+"""Fiyatı ne kadar""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Size yardımcı olabilmem için birkaç detaya daha ihtiyacım olacak:
+
+1. **Hangi şehirde** veya ilçede nişanlık bakıyorsunuz?
+2. **Satın almak mı, kiralamak mı** istiyorsunuz?
+3. **Tahmini bütçeniz** var mı? (Örneğin, 5.000 TL’ye kadar, 10.000 TL’ye kadar gibi.)
+
+Genel olarak, 2025 yılı itibariyle nişanlık fiyatları şehir ve modele göre değişiklik gösteriyor:
+- **Kiralık nişanlıklar**: Ortalama 3.000 TL – 10.000 TL arasında değişiyor.
+- **Satılık nişanlıklar**: Ortalama 7.000 TL’den başlayıp, özel tasarımlarda 30.000 TL ve üzerine çıkabiliyor.
+
+Dilerseniz, bulunduğunuz şehre ve bütçenize göre size özel mağaza ve model önerileri sunabilirim. Hangi şehirde aradığınızı belirtir misiniz?""";"""Hayır""";"""Nötr""";"""Nişan"""
+"""Conversation resolved automatically.""";"""Hayır""";"""Pozitif""";"""Diğer"""
+"""Ne tür bir etkinlik yapmayı düşünüyorsunuz?""";"""Hayır""";"""Nötr""";"""Diğer"""
+"""Merhaba, ben Hera. Size uygun mekanı veya firmayı bulmanız konusunda yardımcı olabilirim.""";"""Hayır""";"""Nötr""";"""Düğün Mekanı"""
+"""Düğün""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Harika! **Düğün** için mekan veya hizmet arayışındasınız. Size en uygun önerileri sunabilmem için birkaç bilgiye daha ihtiyacım olacak:
+
+1. **Düğününüzü hangi şehir ve ilçede yapmak istiyorsunuz?**
+2. **Tahmini düğün tarihiniz nedir?** (Yıl-ay veya tam tarih olarak belirtebilirsiniz.)
+3. **Yaklaşık kaç davetli olacak?**
+4. **Yemek tercihiniz nedir?** (Yemekli, kokteyl, pasta ve meşrubat gibi)
+
+Bu bilgileri paylaşırsanız, size en uygun düğün mekanlarını veya hizmetlerini önermeye başlayabilirim!""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""23.08.25 pastalı olcak 600 kişi""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Teşekkürler! Şu ana kadar elimdeki bilgiler:
+
+- **Etkinlik:** Düğün
+- **Tarih:** 23.08.2025
+- **İkram:** Pasta ve meşrubat
+- **Davetli sayısı:** 600 kişi
+
+Şimdi, size daha iyi yardımcı olabilmem için iki sorum daha olacak:
+
+1. **Düğününüzü hangi şehir ve ilçede yapmak istiyorsunuz?**
+2. **Kişi başı veya toplam bütçeniz nedir?** (Örneğin: kişi başı 500 TL veya toplam 100.000 TL gibi)
+
+Bu bilgileri paylaşırsanız, size en uygun mekanları hemen önerebilirim!""";"""Evet""";"""Nötr""";"""Düğün Mekanı"""
+"""Konya da olacak""";"""Evet""";"""Nötr""";"""Diğer"""
+"""Harika! Düğününüz **Konya**’da olacak. Son olarak, bütçenizi de öğrenebilir miyim? Yani, 600 kişi için pasta ve meşrubat ikramlı bir düğün için toplamda veya kişi başı ayırdığınız bir bütçe var mı?
+
+Bütçenizi belirtirseniz, hem uygun hem de beklentilerinize hitap eden mekanları önerebilirim. Eğer bütçe belirtmek istemezseniz, farklı fiyat aralıklarından örnekler de sunabilirim.
+
+Bütçenizi paylaşır mısınız?""";"""Evet""";"""Pozitif""";"""Düğün Mekanı"""
+"""100""";"""Evet""";"""Nötr""";"""Diğer"""

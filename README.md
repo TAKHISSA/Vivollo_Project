@@ -33,12 +33,4 @@ Proje kapsamında:
 4. **Raporlama**  
    - Doğruluk raporu (`accuracy_report.md`) ve en iyi sonuç veren prompt (`system_prompts.txt`) kaydedildi.
 
----
 
-## ⚠️ Karşılaşılan Sorunlar ve Çözümler
-### 1. **Eşleşmeyen Mesajlar**
-- LLM toplam **23.566 mesaj** işledi ancak manuel etiketleme verisinde sadece **4.650 mesaj** bulundu.
-- Bu farkın nedeni:
-  - Bazı mesajların LLM çıktısında bulunup manuel etiketlerde olmaması.
-  - Mesaj metinlerinin küçük farklarla (noktalama, boşluk, emoji, markdown biçimi) farklı olması.
-  - Boş string veya gereksiz satırların veride bulunması.
